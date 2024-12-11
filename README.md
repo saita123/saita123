@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @saita123
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+💻 Passionate developer with expertise in Java, Spring Boot, and Python.
+🌐 Skilled in web technologies like HTML, CSS, and JavaScript.
+📊 Enjoys working with Jupyter Notebooks and exploring data-driven solutions.
+🚀 Always eager to learn, innovate, and collaborate on impactful projects.
+
 
 <!---
 saita123/saita123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
